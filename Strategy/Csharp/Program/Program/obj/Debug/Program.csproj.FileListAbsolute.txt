@@ -1,0 +1,7 @@
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\C#\Strategy\Program\Program\bin\Debug\Program.exe.config
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\C#\Strategy\Program\Program\bin\Debug\Program.exe
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\C#\Strategy\Program\Program\bin\Debug\Program.pdb
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\C#\Strategy\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\C#\Strategy\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\C#\Strategy\Program\Program\obj\Debug\Program.exe
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\C#\Strategy\Program\Program\obj\Debug\Program.pdb

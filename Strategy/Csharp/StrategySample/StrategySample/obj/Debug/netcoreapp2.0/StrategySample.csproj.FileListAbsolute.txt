@@ -1,0 +1,11 @@
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\bin\Debug\netcoreapp2.0\StrategySample.deps.json
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\bin\Debug\netcoreapp2.0\StrategySample.runtimeconfig.json
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\bin\Debug\netcoreapp2.0\StrategySample.runtimeconfig.dev.json
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\bin\Debug\netcoreapp2.0\StrategySample.dll
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\bin\Debug\netcoreapp2.0\StrategySample.pdb
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\obj\Debug\netcoreapp2.0\StrategySample.csprojResolveAssemblyReference.cache
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\obj\Debug\netcoreapp2.0\StrategySample.csproj.CoreCompileInputs.cache
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\obj\Debug\netcoreapp2.0\StrategySample.AssemblyInfoInputs.cache
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\obj\Debug\netcoreapp2.0\StrategySample.AssemblyInfo.cs
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\obj\Debug\netcoreapp2.0\StrategySample.dll
+E:\YURA\PROGRAMMING\PROJECTS\Patterns\Strategy\C#\StrategySample\StrategySample\obj\Debug\netcoreapp2.0\StrategySample.pdb
